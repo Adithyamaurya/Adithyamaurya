@@ -24,11 +24,11 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Adithyamaurya&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithyamaurya&show_icons=true&theme=radical" alt="Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Adithyamaurya&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyamaurya&theme=radical" alt="Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Adithyamaurya&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyamaurya&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
