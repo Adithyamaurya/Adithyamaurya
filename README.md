@@ -12,7 +12,7 @@
 ### 🌟 About Me
 - 🎓 **BSc IT** Graduate & **MAH MCA CET** aspirant  
 - 🎮 Currently building a **2D Web Game** for BOLT New Hackathon  
-- 🧠 Passionate about **AI**, **tech trends** , and **indie coding**  
+- 🧠 Passionate about **AI**, **tech trends**, and **indie coding**  
 
 ---
 
