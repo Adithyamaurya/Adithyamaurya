@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Fancy GitHub README by ChatGPT -->
 
-<!--
-**Adithyamaurya/Adithyamaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm <span style="color:#6c63ff;">Adithya Maurya</span></h1>
+<h3 align="center">🚀 Developer | 🎬 Video Editor | 👨‍💻 Indie Hacker | 🎯 MCA Aspirant</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code+%F0%9F%92%BB;Building+SaaS+Products+from+Scratch+%F0%9F%9B%A0%EF%B8%8F;Lover+of+Clean+Code+%E2%9C%A8;Sharing+AI%2FTech+Insights+Everyday+%F0%9F%93%BA" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+- 🎓 **BSc IT** Graduate & **MAH MCA CET** aspirant  
+- 🎮 Currently building a **2D Web Game** for BOLT New Hackathon  
+- 🧠 Passionate about **AI**, **tech trends**, and **indie coding**  
+
+---
+
+### 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,python,cs,cpp,java,vercel,ai,netlify,blender,unity,github,vscode," />
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Adithyamaurya&show_icons=true&theme=radical" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Adithyamaurya&theme=radical" alt="Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Adithyamaurya&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🧠 Fun Projects I'm Building
+- 🧪 **Saha** – A smart & simple solution for online diagnosis  
+- 🧙‍♂️ Indie products & experiments around AI & automation
+- 🛠️ **ZenApp** - A minimalist phone launcher
+- 🎮 A chill, browser-based **2D game** (made for fun + hackathons)
+
+---
+
+### 📢 Let's Connect!
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:adithyama012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ _Star my pinned repos if you like my work!_  
+🛠 _Always building. Always learning._
+
