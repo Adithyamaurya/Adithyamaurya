@@ -34,7 +34,8 @@
 ---
 
 ### 🧠 Fun Projects I'm Building
-- 🧪 **Saha** – A smart & simple solution for online diagnosis  
+- 🧪 **Saha** – A smart & simple solution for online diagnosis
+- 🛒 **Gro-c** – A user-friendly website for seamless online grocery shopping
 - 🧙‍♂️ Indie products & experiments around AI & automation
 - 🛠️ **ZenApp** - A minimalist phone launcher
 - 🎮 A chill, browser-based **2D game** (made for fun + hackathons)
