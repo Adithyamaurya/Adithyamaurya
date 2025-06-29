@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Developer | 🎬 Video Editor | 👨‍💻 Indie Hacker | 🎯 MCA Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code+%F0%9F%92%BB;Building+SaaS+Products+from+Scratch+%F0%9F%9B%A0%EF%B8%8F;Lover+of+Clean+Code+%E2%9C%A8;Sharing+AI%2FTech+Insights+Everyday+%F0%9F%93%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code+%F0%9F%92%BB;Building+SaaS+Products+from+Scratch+%F0%9F%9B%A0%EF%B8%8F;Lover+of+Clean+Code+%E2%9C%A8;" alt="Typing SVG" />
 </p>
 
 ---
