@@ -105,11 +105,11 @@
 
 <h3 align="center">📱 ZenApp - Minimalist Launcher</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-61DAFB?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/XML0-003B57?style=for-the-badge&logo=xml&logoColor=white" />
   <br><br>
   <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Downloads-500+-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Downloads-10+-purple?style=flat-square" />
 </div>
 
 **Features:**
@@ -127,7 +127,7 @@
   <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <br><br>
   <img src="https://img.shields.io/badge/Status-Coming%20Soon-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progress-60%25-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress30%25-yellow?style=flat-square" />
 </div>
 
 **Features:**
