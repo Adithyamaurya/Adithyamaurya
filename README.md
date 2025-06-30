@@ -231,16 +231,6 @@ Others                   █░░░░░░░░░░░░░░░░░�
 </div>
 
 <div align="center">
-  <h3>💬 Let's discuss:</h3>
-  <p>
-    🚀 <strong>SaaS Development</strong> | 🤖 <strong>AI Integration</strong> | 🎮 <strong>Game Development</strong><br>
-    📱 <strong>Mobile Apps</strong> | 🌐 <strong>Web Solutions</strong> | 🎬 <strong>Content Creation</strong>
-  </p>
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
 
