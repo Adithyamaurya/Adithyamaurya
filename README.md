@@ -110,10 +110,6 @@ graph LR
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Languages&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=JavaScript%2CTypeScript%2C90%2C2196F3%3BReact%2CNext.js%2C85%2C61DAFB%3B&line2=Python%2CAI%2FML%2C75%2C3776AB%3BPHP%2CBackend%2C70%2C777BB4%3B&line3=Java%2COOP%2C65%2CED8B00%3BC%23%2C.NET%2C60%2C239120%3B&hideBg=true&hideTitle=false" />
-</div>
-
 ---
 
 ## 📊 **GitHub Analytics Dashboard**
