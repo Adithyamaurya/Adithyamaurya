@@ -168,7 +168,6 @@
   <h3>🌟 Show some love by starring my repositories!</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" />
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
