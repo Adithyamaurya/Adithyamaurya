@@ -33,10 +33,6 @@
   </table>
 </div>
 
----
-
-## 🧠 **About Me**
-
 <details>
 <summary>📖 <strong>Click to expand my journey</strong></summary>
 
