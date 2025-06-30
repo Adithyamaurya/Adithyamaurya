@@ -37,35 +37,6 @@
 
 ## 🧠 **About Me**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  specialties: string[];
-  currentProjects: string[];
-  lifePhilosophy: string;
-}
-
-const adithyaMaurya: Developer = {
-  name: "Adithya Maurya",
-  role: ["Full Stack Developer", "AI Enthusiast", "Indie Hacker", "Content Creator"],
-  specialties: [
-    "Modern Web Development",
-    "SaaS Product Development", 
-    "Game Development",
-    "AI/ML Integration",
-    "Video Editing & Production"
-  ],
-  currentProjects: [
-    "🧪 Saha - Startup Forum Platform",
-    "🛒 Gro-c - E-commerce Solution", 
-    "📱 ZenApp - Minimalist Launcher",
-    "🎮 2D Web Game - Browser Gaming"
-  ],
-  lifePhilosophy: "Code with purpose, build with passion, learn without limits"
-};
-```
-
 <details>
 <summary>📖 <strong>Click to expand my journey</strong></summary>
 
@@ -81,13 +52,6 @@ graph LR
     F --> G[🏢 SaaS Building]
     G --> H[🎯 Current: Indie Hacker]
 ```
-
-### 🎯 **What Drives Me**
-- **Innovation**: Always seeking new ways to solve problems
-- **Impact**: Building products that make a difference
-- **Learning**: Constantly expanding my knowledge horizon
-- **Community**: Sharing knowledge and collaborating with others
-
 </details>
 
 ---
@@ -104,8 +68,6 @@ graph LR
 
 ### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netlify,linux,unity,blender&theme=dark" />
-
-### **AI & Emerging Tech**
 <img src="https://skillicons.dev/icons?i=ai,vercel,arduino,raspberrypi&theme=dark" />
 
 </div>
@@ -219,29 +181,6 @@ graph LR
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎯 **2024 Goals & Achievements**
-
-<div align="center">
-
-### **🏆 Achievements Unlocked**
-```
-✅ Graduated with BSc IT                    ✅ Built 4+ Full Stack Projects
-✅ Mastered React & Node.js                 ✅ Launched E-commerce Platform
-✅ Started Indie Hacking Journey            ✅ Contributed to Open Source
-```
-
-### **🎯 Current Focus Areas**
-```
-🎯 MAH MCA CET Preparation                  🎯 Launch Saha 
-🎯 Complete 2D Web Game                     🎯 Reach 1000+ GitHub Stars
-🎯 Build AI-powered Automation Tools        🎯 Create Tech Educational Content
-🎯 Establish SaaS Revenue Stream            🎯 Contribute to 10+ Open Source Projects
-```
 
 </div>
 
