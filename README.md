@@ -5,10 +5,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code+%F0%9F%92%BB;Building+SaaS+Products+from+Scratch+%F0%9F%9B%A0%EF%B8%8F;Lover+of+Clean+Code+%E2%9C%A8;" alt="Typing SVG" />
-</p>
-<p align="center">
-  ![](https://hit.yhype.me/github/profile?account_id=124047385)
-</p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ---
 
