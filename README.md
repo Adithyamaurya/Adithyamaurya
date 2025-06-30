@@ -12,23 +12,6 @@
   <img src="https://img.shields.io/github/stars/Adithyamaurya?color=58A6FF&style=flat-square&logo=github&label=TOTAL+STARS" />
 </div>
 
-<details>
-<summary>📖 <strong>Click to expand my journey</strong></summary>
-
-### 🌟 **My Developer Journey**
-
-```mermaid
-graph LR
-    A[🎓 BSc IT Student] --> B[💻 First Hello World]
-    B --> C[🌐 Web Development]
-    C --> D[⚛️ React Mastery]
-    D --> E[🚀 Full Stack]
-    E --> F[🤖 AI Integration]
-    F --> G[🏢 SaaS Building]
-    G --> H[🎯 Current: Indie Hacker]
-```
-</details>
-
 ---
 
 ## 🛠️ **Tech Stack & Skills**
