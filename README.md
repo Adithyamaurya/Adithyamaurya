@@ -236,7 +236,5 @@ Others                   █░░░░░░░░░░░░░░░░░�
 
 <div align="center">
   <h3>🌟 Show some love by starring my repositories!</h3>
-  <p><em>Always building • Always learning • Always growing</em></p>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" />
 </div>
