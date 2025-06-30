@@ -12,27 +12,6 @@
   <img src="https://img.shields.io/github/stars/Adithyamaurya?color=58A6FF&style=flat-square&logo=github&label=TOTAL+STARS" />
 </div>
 
----
-
-## 🎯 **Current Status**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🎓 <strong>Education</strong></td>
-      <td align="center">🚀 <strong>Building</strong></td>
-      <td align="center">🎯 <strong>Goal</strong></td>
-      <td align="center">📍 <strong>Location</strong></td>
-    </tr>
-    <tr>
-      <td align="center">BSc IT Graduate<br>MCA Aspirant</td>
-      <td align="center">Forum SaaS<br>2D Web Game</td>
-      <td align="center">Full Stack<br>AI Integration</td>
-      <td align="center">India 🇮🇳<br>Remote Ready</td>
-    </tr>
-  </table>
-</div>
-
 <details>
 <summary>📖 <strong>Click to expand my journey</strong></summary>
 
