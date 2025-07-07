@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%92%BB+Crafting+Digital+Solutions+with+Code;%F0%9F%9A%80+Building+SaaS+Products+from+Scratch;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%8E%AE+Creating+Interactive+Web+Games;%E2%9C%A8+Turning+Ideas+into+Reality" alt="Typing Animation" />
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Adithyamaurya&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Adithyamaurya?color=58A6FF&style=flat-square&logo=github&label=FOLLOWERS" />
