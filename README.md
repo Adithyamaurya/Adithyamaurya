@@ -155,7 +155,7 @@
   <a href="https://twitter.com/adithyamaurya">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
-  <a href="https://portfolio-adithya.vercel.app">
+  <a href="https://portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://dev.to/adithyamaurya">
