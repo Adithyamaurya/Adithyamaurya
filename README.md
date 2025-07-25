@@ -52,97 +52,6 @@
 
 ---
 
-## 🚀 **Featured Projects Portfolio**
-
-<div align="center">
-
-### 🏆 **Flagship Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🧪 Saha - Idea sharing Platform</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-FF6B6B?style=for-the-badge&logo=postgres&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progress-45%25-green?style=flat-square" />
-</div>
-
-**Features:**
-- 🤖 Open platform to share ideas
-- 📊 User analytics dashboard  
-- 🔒 Secure data encryption
-- 📱 Mobile-responsive design
-
-</td>
-<td width="50%">
-
-<h3 align="center">🛒 Gro-c - E-commerce Solution</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-61DAFB?style=for-the-badge&logo=html&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-47A248?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=js&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Users-NONE-blue?style=flat-square" />
-</div>
-
-**Features:**
-- 🛍️ Seamless shopping experience
-- 💳 Multiple payment gateways
-- 📦 Seller data dashboard
-- 🎯 Smart AI recommendations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">📱 ZenApp - Minimalist Launcher</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-61DAFB?style=for-the-badge&logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/XML0-003B57?style=for-the-badge&logo=xml&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Downloads-10+-purple?style=flat-square" />
-</div>
-
-**Features:**
-- 🎨 Minimalist design philosophy
-- ⚡ Distraction-free performance
-- 🔧 Simple customizable
-- 🌙 Dark mode support
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎮 2D Web Game</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-Coming%20Soon-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Progress30%25-yellow?style=flat-square" />
-</div>
-
-**Features:**
-- 🎮 Browser-based gaming
-- 🏆 Leaderboard system
-- 🎵 Dynamic soundtrack
-- 📱 Cross-platform compatibility
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
@@ -152,14 +61,8 @@
   <a href="mailto:adithyama012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://twitter.com/adithyamaurya">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
   <a href="https://portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://dev.to/adithyamaurya">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" />
   </a>
 </div>
 
