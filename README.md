@@ -24,8 +24,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs,cpp,mysql,supabase&theme=dark" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netlify,linux,unity,blender&theme=dark" />
-<img src="https://skillicons.dev/icons?i=ai,vercel,arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netlify,linux,unity,blender,ai,vercel,arduino,raspberrypi&theme=dark" />
 
 </div>
 
