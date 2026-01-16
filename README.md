@@ -25,7 +25,7 @@ JavaScript, React, Node.js, MongoDB, HTML, CSS, Python, Git
 
 ## 📊 Contribution Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyamaurya&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Commits](https://github-readme-stats.vercel.app/api?username=Adithyamaurya&hide=prs,issues,contribs&include_all_commits=true&theme=dark)
 
 ---
 
