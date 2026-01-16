@@ -5,9 +5,6 @@
 ```text
 JavaScript, React, Node.js, MongoDB, HTML, CSS, Python, Git
 ```
-![Metrics](https://metrics.lecoq.io/Adithyamaurya?template=classic&base=activity&config.timezone=Asia/Kolkata)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/Adithyamaurya/Adithyamaurya)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adithya-maurya-17a00a370/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
