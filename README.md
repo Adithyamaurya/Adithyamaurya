@@ -5,6 +5,8 @@
 ```text
 JavaScript, React, Node.js, MongoDB, HTML, CSS, Python, Git
 ```
+![Metrics](https://metrics.lecoq.io/Adithyamaurya?template=classic&base=activity&config.timezone=Asia/Kolkata)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/Adithyamaurya/Adithyamaurya)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adithya-maurya-17a00a370/">
@@ -16,5 +18,4 @@ JavaScript, React, Node.js, MongoDB, HTML, CSS, Python, Git
   <a href="https://portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
-</div>![Metrics](https://metrics.lecoq.io/Adithyamaurya?template=classic&base=activity&config.timezone=Asia/Kolkata)
-
+</div>
