@@ -12,7 +12,7 @@ JavaScript, React, Node.js, MongoDB, HTML, CSS, Python, Git
   <a href="mailto:adithyama012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://portfolio.vercel.app">
+  <a href="https://adithyamaurya.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
 </div>
